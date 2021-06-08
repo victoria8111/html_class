@@ -1,0 +1,24 @@
+h1{
+    color: crimson;
+}
+p{
+    font-size: 20px;
+    font-family: "Bodoni MT Black";
+}
+h2,h3{
+    color: coral;
+    font-family: "Arial Rounded MT Bold";
+}
+ul{
+    color: cornflowerblue;
+    font-family: "AR BONNIE";
+    font-size: 20px;
+}
+#kenya{
+    color: aqua;
+    font-family: "Bookman Old Style";
+}
+#uganda{
+    color: chocolate;
+    font-family: "Bodoni MT Black";
+}
